@@ -19,3 +19,10 @@ Greece is famous for its amazing **beaches and clear-blue waters**. In addition,
    2. Complete your check-out process in greece
 4. Athens International Airport (ATH) to Coco-Mat Athens BC (Hotel)
 
+* Beautiful dresses
+* Lots of Money 
+* Cosmetics
+  * Make-up
+  * Moisturizer and sun screen
+* Choclates and snacks
+

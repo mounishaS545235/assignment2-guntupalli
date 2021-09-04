@@ -41,3 +41,14 @@ I am a foodie and I like trying new flavours and drinks. Every weekend I like to
 | Drumstick Donne Biryani           | Kondapur       | $21   |
 | WoodFried Poasted chicken Pizza   | Jubliee hills  | $20   |
 | Blueberry cheese Shake            | Nagole         | $12   |
+
+
+---
+
+# Inspirational Quotes by Great People
+
+> " *When our signature changes to autograph, this marks the success.* "
+>      - by ***Abdul Kalam***
+>      
+> " *If you judge people, you have no time to love them.* "
+>      - by ***Mother Teresa***

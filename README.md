@@ -28,3 +28,16 @@ Greece is famous for its amazing **beaches and clear-blue waters**. In addition,
 
 [Click here for AboutMe](https://github.com/mounishaS545235/assignment2-guntupalli/blob/main/AboutMe.md)
 
+
+---
+
+# Food/Drinks that I would recommend to others
+
+I am a foodie and I like trying new flavours and drinks. Every weekend I like to visit new places with my friends and cousins. So, below are the food/drinks items that I like my friends to try and love them. 
+
+| Food                              | Location       | Price |
+| ---                               | ---            | ---:  |
+| Hot Nutella lava cake             | Madhapur       | $15   |
+| Drumstick Donne Biryani           | Kondapur       | $21   |
+| WoodFried Poasted chicken Pizza   | Jubliee hills  | $20   |
+| Blueberry cheese Shake            | Nagole         | $12   |
